@@ -1,3 +1,5 @@
+This Website App has a backend which isnt hosted yet so it isnt functional
+
 To be able to access the banking app you need to first register an account
 then log in as an Admin
 --- admin login  = email: admin@gmail.com password:123456
